@@ -18,3 +18,6 @@ Questo richiederà un minimo di ricerca - come quelle fatte in classe :occhiolin
 - Far visualizzare l'output desiderato con massimo due cifre decimali e il simbolo €
 
 ### Tools
+- Variabili
+- Prompt
+- if/else
