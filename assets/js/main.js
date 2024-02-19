@@ -22,5 +22,4 @@ else{
     alert("Lei dovrà pagare €" + ticketPrice)
 }
 //- Far visualizzare l'output desiderato con massimo due cifre decimali e il simbolo €
-alert("Lei dovrà pagare €" + ticketPrice)
 // document.writeln, creare una sola variabile per accorpare il prezzo?
